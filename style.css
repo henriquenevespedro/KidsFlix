@@ -28,3 +28,8 @@ img{
     height: 200px;
 }
 
+.categoria-videos{
+    display: flex;
+    overflow-x: /* permite rolagem horizontal automática quando o conteúdo exceder a largura da tela */
+    gap: 10px; /* adiciona espaçamento entre os elementos*/
+}
