@@ -14,8 +14,8 @@ h2 {
 section {
     color: aliceblue;
     background:#2b2b2b3b;
-    padding-top: ;
-    padding-bottom: ;
-    display: ;
-    justify-content: ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex; /* torna flexivel = põe um do lado do outro*/
+    justify-content: center; /* centralizar */
 }
