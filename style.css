@@ -19,3 +19,7 @@ section {
     display: flex; /* torna flexivel = põe um do lado do outro*/
     justify-content: center; /* centralizar */
 }
+
+.chamada-texto{
+    margin-right: 15%;
+}
